@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in {1..25}
+do
+    curl mystack11-ElasticL-I35BTRND8M1J-1200644994.ap-southeast-2.elb.amazonaws.com	
+    sleep 5
+done
